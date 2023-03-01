@@ -7,7 +7,7 @@ export default function SinglePost() {
       <div className="singlePostWrapper">
         <img
           className="singlePostImg"
-          src="https://images.pexels.com/photos/6685428/pexels-photo-6685428.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRvBLDax7qyEcRGAiaPTiHRyTGG8UlU9IeUg&usqp=CAU"
           alt=""
         />
         <h1 className="singlePostTitle">
@@ -21,42 +21,24 @@ export default function SinglePost() {
           <span>
             Author:
             <b className="singlePostAuthor">
-              <Link className="link" to="/posts?username=Safak">
-                Safak
+              <Link className="link" to="/posts?username=Kamogelo">
+                Kamogelo
               </Link>
             </b>
           </span>
           <span>1 day ago</span>
         </div>
         <p className="singlePostDesc">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iste error
-          quibusdam ipsa quis quidem doloribus eos, dolore ea iusto impedit!
-          Voluptatum necessitatibus eum beatae, adipisci voluptas a odit modi
-          eos! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iste
-          error quibusdam ipsa quis quidem doloribus eos, dolore ea iusto
-          impedit! Voluptatum necessitatibus eum beatae, adipisci voluptas a
-          odit modi eos! Lorem, ipsum dolor sit amet consectetur adipisicing
-          elit. Iste error quibusdam ipsa quis quidem doloribus eos, dolore ea
-          iusto impedit! Voluptatum necessitatibus eum beatae, adipisci voluptas
-          a odit modi eos! Lorem, ipsum dolor sit amet consectetur adipisicing
-          elit. Iste error quibusdam ipsa quis quidem doloribus eos, dolore ea
-          iusto impedit! Voluptatum necessitatibus eum beatae, adipisci voluptas
-          a odit modi eos! Lorem, ipsum dolor sit amet consectetur adipisicing
-          elit. Iste error quibusdam ipsa quis quidem doloribus eos, dolore ea
-          iusto impedit! Voluptatum necessitatibus eum beatae, adipisci voluptas
-          a odit modi eos!
+        Examining various philosophical approaches to peace, including pacifism, just war theory, and nonviolent resistance.
+        Discussing methods for resolving conflicts peacefully, such as negotiation, mediation, and restorative justice.
+        Analyzing the relationship between peace and human rights, including the right to life, freedom from torture, and freedom of expression.
+        Exploring ethical questions related to the use of violence in achieving peace, including the morality of self-defense and the limits of just war theory.
+
           <br />
           <br />
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iste error
-          quibusdam ipsa quis quidem doloribus eos, dolore ea iusto impedit!
-          Voluptatum necessitatibus eum beatae, adipisci voluptas a odit modi
-          eos! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iste
-          error quibusdam ipsa quis quidem doloribus eos, dolore ea iusto
-          impedit! Voluptatum necessitatibus eum beatae, adipisci voluptas a
-          odit modi eos! Lorem, ipsum dolor sit amet consectetur adipisicing
-          elit. Iste error quibusdam ipsa quis quidem doloribus eos, dolore ea
-          iusto impedit! Voluptatum necessitatibus eum beatae, adipisci voluptas
-          a odit modi eos! Lorem, ipsum dolor sit amet consectetur.
+          Examining the role of social justice in promoting peace, including the relationship between poverty, inequality, and violence.
+          Discussing the links between environmental degradation and conflict, and exploring strategies for promoting environmental sustainability as a means of achieving peace.
+          Examining the role of international institutions and diplomacy in promoting peace and preventing conflict.
         </p>
       </div>
     </div>
