@@ -4,12 +4,12 @@ export default function Header() {
   return (
     <div className="header">
       <div className="headerTitles">
-        <span className="headerTitleSm">React & Node</span>
+        <span className="headerTitleSm">Intro</span>
         <span className="headerTitleLg">BLOG</span>
       </div>
       <img
         className="headerImg"
-        src="https://images.pexels.com/photos/1167355/pexels-photo-1167355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnPGw-VgOoKEI9z7Jh0w2g-IJj3cp80CBjyw&usqp=CAU"
         alt=""
       />
     </div>

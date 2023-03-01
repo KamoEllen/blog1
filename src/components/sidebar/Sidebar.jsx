@@ -7,45 +7,44 @@ export default function Sidebar() {
       <div className="sidebarItem">
         <span className="sidebarTitle">ABOUT ME</span>
         <img
-          src="https://themegoods-cdn-pzbycso8wng.stackpathdns.com/grandblog/demo/wp-content/uploads/2015/11/aboutme.jpg"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Jw1n6r6ryBRmf-riEorFJwCVwBvtS9ilRg&usqp=CAU"
           alt=""
         />
         <p>
-          Laboris sunt aute cupidatat velit magna velit ullamco dolore mollit
-          amet ex esse.Sunt eu ut nostrud id quis proident.
+        Peace is a fundamental human aspiration that has been sought after throughout history. It is not merely the absence of conflict, but a state of harmony, security, and justice. 
         </p>
       </div>
       <div className="sidebarItem">
         <span className="sidebarTitle">CATEGORIES</span>
         <ul className="sidebarList">
           <li className="sidebarListItem">
-            <Link className="link" to="/posts?cat=Life">
-              Life
+            <Link className="link" to="/posts?cat=Theories of peace">
+            Theories of peace
             </Link>
           </li>
           <li className="sidebarListItem">
-            <Link className="link" to="/posts?cat=Music">
-              Music
+            <Link className="link" to="/posts?cat=Conflict resolution">
+            Conflict resolution
             </Link>
           </li>
           <li className="sidebarListItem">
             <Link className="link" to="/posts?cat=Sport">
-              Sport
+            Human rights
             </Link>
           </li>
           <li className="sidebarListItem">
             <Link className="link" to="/posts?cat=Style">
-              Style
+            Ethics of war and violence
             </Link>
           </li>
           <li className="sidebarListItem">
             <Link className="link" to="/posts?cat=Tech">
-              Tech
+            Environmental peace
             </Link>
           </li>
           <li className="sidebarListItem">
             <Link className="link" to="/posts?cat=Cinema">
-              Cinema
+            International relations
             </Link>
           </li>
         </ul>
