@@ -33,7 +33,8 @@ export default function Topbar() {
           <Link className="link" to="/settings">
             <img
               className="topImg"
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgbQC5y_6uAYX4ihGax1RSSYaNqmWBcARqHE0pr-ND8NtVMDmQrYHJooaqfCMPnIfHRX0&usqp=CAU"
+              src="https://images.pexels.com/photos/13436482/pexels-photo-13436482.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+              
               alt=""
             />
           </Link>
