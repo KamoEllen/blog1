@@ -9,7 +9,7 @@ export default function Header() {
       </div>
       <img
         className="headerImg"
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnPGw-VgOoKEI9z7Jh0w2g-IJj3cp80CBjyw&usqp=CAU"
+        src="https://images.pexels.com/photos/17672334/pexels-photo-17672334/free-photo-of-human-hand-holding-cherry-blossoms.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
         alt=""
       />
     </div>
