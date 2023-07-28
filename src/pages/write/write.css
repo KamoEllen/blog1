@@ -1,7 +1,9 @@
 .write {
   padding-top: 50px;
 }
-
+a.link {
+    color: black;
+}
 .writeImg {
   margin-left: 150px;
   width: 70vw;
