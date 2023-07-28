@@ -7,7 +7,7 @@ export default function SinglePost() {
       <div className="singlePostWrapper">
         <img
           className="singlePostImg"
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRvBLDax7qyEcRGAiaPTiHRyTGG8UlU9IeUg&usqp=CAU"
+          src="https://images.pexels.com/photos/16779198/pexels-photo-16779198/free-photo-of-lighthouse-on-pier-on-sunset.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
           alt=""
         />
         <h1 className="singlePostTitle">
